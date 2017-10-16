@@ -1,0 +1,31 @@
+/* 1 */
+body h1{
+     color: blue;
+}
+/* 2 */
+ .colleges{
+    background-color: #c83;
+
+}
+/* 3 */
+.topics{
+    list-style-type: none;
+}
+
+/* 4 */
+ div figure img{
+    max-width: 300px;
+}
+
+/* 5 */
+
+figure{
+    /* width: 25%; */
+    float: left;
+    margin: 20px;
+    text-align: center;
+    padding: 0;
+}
+
+/* 6 */
+
